@@ -6,11 +6,11 @@
 <br>
 <ul>
         <li>🔭 Iam Machine Learning and Deep Learning Enthusiast, Enterpreneur.</li>
-        <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
+        <li>💼 Currently pursuing my third year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
         <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer-n-a77063188">LinkedIn</a>.</li>
-        <li>⚡ Fun fact: I am lazy person.</li>
+        <li>⚡ Fun fact: I am lazy person <p>&#128512</p>.</li>
       </ul>
 </i>
 
