@@ -53,12 +53,13 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## Github Stats
+<a href="https://github.com/ameerkings123">
+  <img align="center" alt="Abdul Ameer Github Stats" src="https://github-readme-stats.vercel.app/api?username=ameerkings123&show_icons=true&theme=tokyonight">
+</a>
+</div>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<div align="center">
 
 
 [instagram]: https://instagram.com/ameer_kings_/
