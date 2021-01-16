@@ -5,7 +5,7 @@
 <img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
 <br>
 <ul>
-        <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
+        <li>🔭 Iam Machine Learning and Deep Learning Enthusiast, Enterpreneur.</li>
         <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
         <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
@@ -23,7 +23,7 @@
 <img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://camo.githubusercontent.com/8298328a921a558fc17a231edb75f35504ec6d30/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3132303070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" />&nbsp;&nbsp;&nbsp;
 
-<div align="center">
+
 
 ## Github Stats
 <a href="https://github.com/ameerkings123">
@@ -39,7 +39,7 @@
 </a>
  </div>
 
-<div align="center">
+
 
 ## Follow Me At
 <a href="https://linkedin.com/in/abdul-ameer-n-a77063188"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
