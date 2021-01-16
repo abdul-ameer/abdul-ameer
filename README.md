@@ -1,57 +1,29 @@
-### Hi there, I'm Abdul Ameer  👋
-
-
-## I'm a Student, Junior DataScientist, and Entrepreneur!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for jobs
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read books and play shuttle 
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
-----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+## Hi there, Iam Abdul Ameer !<img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />
+<i>I am a self taught <b>Python Programmer</b>.</i>
+<i>
   
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
+<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+<br>
+<ul>
+        <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
+        <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
+        <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
+        <li>💬 Ask me about anything.</li>
+        <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer-n-a77063188">LinkedIn</a>.</li>
+        <li>⚡ Fun fact: I am lazy person.</li>
+      </ul>
+</i>
 
-</details>
+## Tools and Languages
+<img height="60" width="60" src="https://github.com/simple-icons/simple-icons/blob/e050634479e2fe95312a4d011b786cb6363125ec/icons/flask.svg" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://github.com/simple-icons/simple-icons/blob/fd422e663e915ce6a91108852aafece0d967f310/icons/visualstudiocode.svg" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://www.aldakur.net/wp-content/uploads/2017/03/docker-logo-1024x914.png" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="150" src="https://keras.io/img/logo.png" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://camo.githubusercontent.com/8298328a921a558fc17a231edb75f35504ec6d30/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3132303070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" />&nbsp;&nbsp;&nbsp;
+
+<div align="center">
 
 ## Github Stats
 <a href="https://github.com/ameerkings123">
@@ -61,7 +33,23 @@
 
 <div align="center">
 
+## Top Languages
+<a href="https://github.com/ameerkings123">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerkings123&theme=tokyonight&layout=compact">
+</a>
+ </div>
 
-[instagram]: https://instagram.com/ameer_kings_/
-[linkedin]: https://www.linkedin.com/in/abdul-ameer-n-a77063188/
+<div align="center">
+
+## Follow Me At
+<a href="https://linkedin.com/in/abdul-ameer-n-a77063188"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/ameer_kings_"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/NAbdulAmeer2"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
+<div align="center">
+  
+<b>❤️ Thank you for visiting my Github Profile ❤️</b>
+</div>
 
