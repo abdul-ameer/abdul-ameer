@@ -31,7 +31,7 @@
 </a>
 </div>
 
-<div align="center">
+
 
 ## Top Languages
 <a href="https://github.com/ameerkings123">
@@ -48,7 +48,7 @@
 
 </div>
 
-<div align="center">
+
   
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
