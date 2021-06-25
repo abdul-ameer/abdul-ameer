@@ -2,7 +2,7 @@
 I am a self taught <b>Junior Data Scientist</b>.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameerkings123&label=Profile%20views&color=0e75b6&style=flat" alt="ameerkings123" /> </p>
-<img align="right" height="250" width="300" src="https://ephmedia.giphy.com/17121920-8798-4dc7-95ae-9333bc4af93d.gif" />
+<img align="right" height="250" width="300" src="https://dribbble.com/shots/2553737-antnO-desk?utm_source=Clipboard_Shot&utm_campaign=antnO&utm_content=antnO%20desk&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=antnO&utm_content=antnO%20desk&utm_medium=Social_Share" />
 <br>
 <ul>
         <li>🔭 Iam Machine Learning and Deep Learning Enthusiast, Enterpreneur.</li>
