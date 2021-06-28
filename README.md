@@ -10,7 +10,8 @@ I am a self taught <b>Junior Data Scientist</b>.
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer-n-a77063188">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am lazy person :wink:.</li>
-      </ul>
+</ul>
+<br>
 
 
 ## Tools and Languages
