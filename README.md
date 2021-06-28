@@ -2,7 +2,6 @@
 I am a self taught <b>Junior Data Scientist</b>.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameerkings123&label=Profile%20views&color=0e75b6&style=flat" alt="ameerkings123" /> </p>
-<img align="right" height="300" width="450" src="https://s6.gifyu.com/images/66833e07d6fb9eb5d724e47d0c814285.gif" />
 <ul>
         <li>🔭 Iam Machine Learning and Deep Learning Enthusiast, Enterpreneur.</li>
         <li>💼 Currently pursuing my third year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
@@ -11,6 +10,7 @@ I am a self taught <b>Junior Data Scientist</b>.
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer-n-a77063188">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am lazy person :wink:.</li>
 </ul>
+<img align="right" height="300" width="450" src="https://s6.gifyu.com/images/66833e07d6fb9eb5d724e47d0c814285.gif" />
 <br>
 
 
