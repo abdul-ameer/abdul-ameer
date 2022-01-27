@@ -24,7 +24,6 @@ I am a self taught <b>Junior Data Scientist</b>.
 <a href="https://github.com/abdul-ameer">
   <img align="center" alt="Abdul Ameer Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdul-ameer&show_icons=true&theme=tokyonight">
 </a>
-</div>
 
 
 
@@ -32,7 +31,49 @@ I am a self taught <b>Junior Data Scientist</b>.
 <a href="https://github.com/abdul-ameer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-ameer&theme=tokyonight&layout=compact">
 </a>
- </div>
+ 
+ <div>
+  
+## My Repositories at Glance
+<table>
+  <tr>
+    <th>Machine Learning</th>
+    <th>Deep Learninig</th>
+  </tr>
+  <tr>
+    <td> 
+      <ul>
+        <li><a target="_blank" href = "https://github.com/abdul-ameer/Wafer_Sensors_Fault"><i>Wafer Sensor WebApp</i></a></li>
+        <li><a target="_blank" href = "https://github.com/abdul-ameer/Black_Friday_Sales/tree/master"><i>Black Friday Sales Predictor</i></a></li> 
+        <li><a target="_blank" href = "https://github.com/abdul-ameer/Flight-Fare-Prediction"><i>Flight Fare Prediction</i></a></li>
+      </ul> 
+    </td>
+    <td>
+      <ul>
+        <li><a target="_blank" href="https://github.com/abdul-ameer/Cotton_Disease"><i>Cotton Disease </i></a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>NLP</th>
+    <th>Internships</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><a target="_blank" href="https://github.com/abdul-ameer/FakeNews_Detector"><i>Fake News Detector</i></a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a target="_blank" href="https://github.com/abdul-ameer/Wafer_Sensors_Fault"><i>Data Science Internship at Technocolabs</i></a> </li>
+        <li><a target="_blank" href="https://github.com/abdul-ameer/GRIP_The-Spark-foundation"><i>Data Science and Analytics Internship at The Sparks Foundation</i></a></li>
+      </ul>
+    </td>
+  <tr>
+</table>
+</div>
+
 
 
 
