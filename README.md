@@ -22,7 +22,7 @@ I am a self taught <b>Junior Data Scientist</b>.
 
 ## Github Stats
 <a href="https://github.com/abdul-ameer">
-  <img align="center" alt="Abdul Ameer Github Stats" src="https://github-readme-stats.vercel.app/api?username=ameerkings123&show_icons=true&theme=tokyonight">
+  <img align="center" alt="Abdul Ameer Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdul-ameer&show_icons=true&theme=tokyonight">
 </a>
 </div>
 
@@ -30,7 +30,7 @@ I am a self taught <b>Junior Data Scientist</b>.
 
 ## Top Languages
 <a href="https://github.com/abdul-ameer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerkings123&theme=tokyonight&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-ameer&theme=tokyonight&layout=compact">
 </a>
  </div>
 
