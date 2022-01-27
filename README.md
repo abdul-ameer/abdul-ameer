@@ -66,7 +66,7 @@ I am a self taught <b>Junior Data Scientist</b>.
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/abdul-ameer/Wafer_Sensors_Fault"><i>Data Science Internship at Technocolabs</i></a> </li>
+        <li><a target="_blank" href="https://github.com/abdul-ameer/Technocolabs_Internship"><i>Data Science Internship at Technocolabs</i></a> </li>
         <li><a target="_blank" href="https://github.com/abdul-ameer/GRIP_The-Spark-foundation"><i>Data Science and Analytics Internship at The Sparks Foundation</i></a></li>
       </ul>
     </td>
