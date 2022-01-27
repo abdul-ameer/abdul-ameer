@@ -37,7 +37,7 @@ I am a self taught <b>Junior Data Scientist</b>.
 
 
 ## Follow Me At
-<a href="https://linkedin.com/in/abdul-ameer"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/abdul-ameer"><img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/ameer_kings_"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
