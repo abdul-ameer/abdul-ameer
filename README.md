@@ -7,7 +7,7 @@ I am a self taught <b>Junior Data Scientist</b>.
         <li>💼 Currently pursuing my third year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
         <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
-        <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer-n-a77063188">LinkedIn</a>.</li>
+        <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am lazy person :wink:.</li>
 </ul>
 <br>
@@ -21,7 +21,7 @@ I am a self taught <b>Junior Data Scientist</b>.
 
 
 ## Github Stats
-<a href="https://github.com/ameerkings123">
+<a href="https://github.com/abdul-ameer">
   <img align="center" alt="Abdul Ameer Github Stats" src="https://github-readme-stats.vercel.app/api?username=ameerkings123&show_icons=true&theme=tokyonight">
 </a>
 </div>
@@ -29,7 +29,7 @@ I am a self taught <b>Junior Data Scientist</b>.
 
 
 ## Top Languages
-<a href="https://github.com/ameerkings123">
+<a href="https://github.com/abdul-ameer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerkings123&theme=tokyonight&layout=compact">
 </a>
  </div>
@@ -37,7 +37,7 @@ I am a self taught <b>Junior Data Scientist</b>.
 
 
 ## Follow Me At
-<a href="https://linkedin.com/in/abdul-ameer-n-a77063188"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/abdul-ameer"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/ameer_kings_"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
