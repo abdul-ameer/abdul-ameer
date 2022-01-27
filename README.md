@@ -19,7 +19,7 @@ I am a self taught <b>Junior Data Scientist</b>.
 </p>
 
 
-
+<div align="center">
 ## Github Stats
 <a href="https://github.com/abdul-ameer">
   <img align="center" alt="Abdul Ameer Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdul-ameer&show_icons=true&theme=tokyonight">
@@ -32,7 +32,6 @@ I am a self taught <b>Junior Data Scientist</b>.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-ameer&theme=tokyonight&layout=compact">
 </a>
  
- <div>
   
 ## My Repositories at Glance
 <table>
