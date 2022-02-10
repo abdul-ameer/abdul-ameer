@@ -5,7 +5,7 @@ I am a self taught <b>Junior Data Scientist</b>.
 <ul>
         <li>🔭 Iam Machine Learning and Deep Learning Enthusiast, Enterpreneur.</li>
         <li>💼 Currently pursuing my third year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
-        <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
+        <li>🤔 Areas of Intrest: web designing, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am lazy person :wink:.</li>
