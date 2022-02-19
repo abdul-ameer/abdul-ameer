@@ -1,11 +1,11 @@
 ## Hi there, Iam Abdul Ameer !<img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />
-I am a self taught <b>Junior Data Scientist</b>.
+I am a self taught <b>Developer</b>.
 <img align="right" height="350" width="450" src="https://s6.gifyu.com/images/66833e07d6fb9eb5d724e47d0c814285.gif" />
 
 <ul>
-        <li>🔭 Iam Machine Learning and Deep Learning Enthusiast, Enterpreneur.</li>
-        <li>💼 Currently pursuing my third year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
-        <li>🤔 Areas of Intrest: web designing, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
+        <li>🔭 Iam Software Engineering, Machine Learning and Deep Learning Enthusiast</li>
+        <li>💼 Currently pursuing my final year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
+        <li>🤔 Areas of Intrest: web designing, MERN,  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am lazy person :wink:.</li>
