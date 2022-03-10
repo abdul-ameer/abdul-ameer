@@ -8,7 +8,7 @@ I am a self taught <b>Developer</b>.
         <li>🤔 Areas of Intrest: web designing, MERN,  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer">LinkedIn</a>.</li>
-        <li>⚡ Fun fact: I am lazy person :wink:.</li>
+        <li>⚡ Fun fact: I am fitness freak :wink:.</li>
 </ul>
 <br>
 
