@@ -38,9 +38,20 @@ I am a self taught <b>Developer</b>.
   
 ## My Repositories at Glance
 <table>
+<tr>
+<th>
+Web App Projects
+</th>
+<td>
+<ul>
+        <li><a target="_blank" href = "https://github.com/abdul-ameer/grocery-web-app"><i>Grocery WebApp</i></a></li>
+        <li><a target="_blank" href = "https://github.com/abdul-ameer/gym-page"><i>Gym Landing Page</i></a></li> 
+</ul>
+</td>
+</tr>
   <tr>
-    <th>Machine Learning</th>
-    <th>Deep Learninig</th>
+    <th>Machine Learning Projects</th>
+    <th>Deep Learninig Projects</th>
   </tr>
   <tr>
     <td> 
@@ -57,7 +68,7 @@ I am a self taught <b>Developer</b>.
     </td>
   </tr>
   <tr>
-    <th>NLP</th>
+    <th>NLP Projects</th>
     <th>Internships</th>
   </tr>
   <tr>
