@@ -4,8 +4,8 @@ I am a self taught <b>Developer</b>.
 
 <ul>
         <li>🔭 Iam Software Engineering, Machine Learning and Deep Learning Enthusiast</li>
-        <li>💼 Currently pursuing my final year of Bachelor's Degree in Computer Engineering at Presidency university .</li>
-        <li>🤔 Areas of Intrest: web designing, MERN,  Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
+        <li>💼 Completed Bachelor's Degree in Computer Engineering at Presidency university.</li>
+        <li>🤔 Areas of Intrest: FullStack Developement, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/abdul-ameer">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am fitness freak :wink:.</li>
