@@ -1,5 +1,5 @@
 ## Hi there, Iam Abdul Ameer !<img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />
-I am a self taught <b>Developer</b>.
+I am a self taught Odoo Python <b>Developer</b>.
 <img align="right" height="350" width="450" src="https://s6.gifyu.com/images/66833e07d6fb9eb5d724e47d0c814285.gif" />
 
 <ul>
