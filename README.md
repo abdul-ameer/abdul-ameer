@@ -42,6 +42,16 @@ I am a self taught Odoo Python <b>Developer</b>.
   
 ## My Repositories at Glance
 <table>
+        <tr>
+<th>
+Odoo Custom Dashboard
+</th>
+<td>
+<ul>
+        <li><a target="_blank" href = "https://github.com/abdul-ameer/kpi_sales_dashboard"><i>KPI sales Dashboard</i></a></li>
+</ul>
+</td>
+</tr>
 <tr>
 <th>
 Web App Projects
